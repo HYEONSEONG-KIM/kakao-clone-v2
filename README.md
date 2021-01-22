@@ -1,11 +1,14 @@
-# HTML
+# Kakao-Clone v2
+- 노마드코더 강의(Kakao-Clone v2)수강, 클론코딩으로 카카오톡 페이지를 만들며 HTML,CSS 학습
 
-## HTML이란?
+## HTML
+
+### HTML이란?
 - HyperText Markup Language의 약자
 - HTML문서라고 불리며, HTML 태그(<태그이름>)들로 구성
 - 태그는 웹 페이지나 디자인, 기능을 결정하는데 사용
 
-## 기본 문법
+### 기본 문법
 - br : 줄 바꾸기
 - p : 단락 바꾸기
 - hr : 가로줄
@@ -17,7 +20,7 @@
 - tr ... /tr : 행
 - td ... /td : 열
 
-## 하이퍼텍스트(링크)
+### 하이퍼텍스트(링크)
 - a ... /a 형식으로 사용
 - href : hypertext reference의 약자, 연결할 주소(절대주소 or상대주소)를 지정
 - taget : 지정된 href 주소를 보여줄 때 설정

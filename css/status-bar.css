@@ -1,7 +1,7 @@
 .status-bar{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
     opacity: 0.7;
 
 }

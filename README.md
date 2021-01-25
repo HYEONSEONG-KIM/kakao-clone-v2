@@ -31,3 +31,19 @@
 - id : href 속성으로 링크가 아닌 현재 페이지에서 이동할 때 사용
 - class : 요소에 스타일 시트를 적용하기 위한 구분자
 
+
+## CSS
+
+### CSS란?
+- Cascading Style Sheets의 약자
+- 마크업 언어가 웹사이트의 몸체를 담당 한다면 css는 옷과 악세사리처럼 꾸미는 역할을 담당
+- 레이아웃과 스타일을 정의할 때의 자유도가 높다
+
+### css 정리
+- (이번 프로젝트에서) style.css 파일을 만들어 HTML파일에 link를 포함, 공통되는 부분들은 import해줌
+- font는 google의 googlefont 이용하여 원하는 글씨체 import
+- dispaly-flex : 수직으로 되어있는 요소들을 수평으로 적용 
+- justify-content : 기본(중심) 축에서 요소 정렬
+- align-items : 교차 축에서 요소 정렬
+- opacity : 요소를 투명하게 만드는 속성
+- box-sizing - border-box : 기존 box에서 패딩값을 추가하면 width+padding 값으로 box가 커지게 되어 기존 요소들이 밀리면서 화면 밖으로 밀려나는 경우 발생 -> padding값이 추가 되어도 box의 크기는 커지지 않고 자동으로 비율이 조정 되도록 함

@@ -1,5 +1,6 @@
 # Kakao-Clone v2
 - 노마드코더 강의(Kakao-Clone v2)수강, 클론코딩으로 카카오톡 페이지를 만들며 HTML,CSS 학습
+- [Project_Report](https://hyeonseong-kim.github.io/kakao-clone-v2/)
 
 ## HTML
 

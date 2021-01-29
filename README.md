@@ -50,3 +50,4 @@
 - box-sizing - border-box : 기존 box에서 패딩값을 추가하면 width+padding 값으로 box가 커지게 되어 기존 요소들이 밀리면서 화면 밖으로 밀려나는 경우 발생 -> padding값이 추가 되어도 box의 크기는 커지지 않고 자동으로 비율이 조정 되도록 함
 - position : 태그들의 위치를 결정, 처음에는 static상태, 태그의 위치를 변경하고 싶으면 relative, absolute는 조상 element에 대해 상대적으로 배치, fiexd는 스크롤을 하여도 고정(반드시 width값을 설정)
 - flex-direction : 플렉스 컨테이너 내의 아이템을 배치할 때 사용할 주축 및 방향을 지정
+- icon의 div는 input 다음에 해야 함 
